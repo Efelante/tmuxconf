@@ -1,4 +1,5 @@
 # tmuxconf
+My tmux configuration file.
 ## Installation
 Tested on: `tmux` version 2.1, `tmux-resurrect` (sha1: 42f77b).
 
